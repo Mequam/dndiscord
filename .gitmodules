@@ -1,0 +1,3 @@
+[submodule "Dgui"]
+	path = Dgui
+	url = https://github.com/Mequam/DGui.git
